@@ -1,0 +1,5 @@
+spark scales data processing across a cluster
+cloud systems process data with distributed computing
+machine learning learns patterns from prepared data
+spark supports scalable analytics and machine learning
+reliable data pipelines validate inputs and outputs
